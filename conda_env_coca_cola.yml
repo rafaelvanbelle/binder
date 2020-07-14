@@ -1,0 +1,21 @@
+name: coca_cola_b2b
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - ipykernel
+  - scikit-learn
+  - networkx
+  - scikit-surprise
+  - ipywidgets
+  - imbalanced-learn
+  - matplotlib
+  - seaborn
+  - bokeh
+  - lightgbm
+  - dask
+  - pylint
+  - ipython
+prefix: /Users/raf/opt/anaconda3/envs/coca_cola_b2b
+
