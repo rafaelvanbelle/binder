@@ -5,17 +5,12 @@ channels:
 dependencies:
   - python=3.7
   - ipykernel
-  - scikit-learn
-  - networkx
-  - scikit-surprise
-  - ipywidgets
-  - imbalanced-learn
+  - requests
+  - xmltodict
+  - fnmatch
+  - pandas
   - matplotlib
   - seaborn
-  - bokeh
-  - lightgbm
-  - dask
-  - pylint
-  - ipython
+  - qgrid
 prefix: /Users/raf/opt/anaconda3/envs/coca_cola_b2b
 
