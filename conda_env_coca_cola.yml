@@ -6,11 +6,12 @@ dependencies:
   - python=3.7
   - ipykernel
   - requests
-  - xmltodict
   - fnmatch
   - pandas
   - matplotlib
   - seaborn
   - qgrid
+  - pip:
+    - xmltodict
 prefix: /Users/raf/opt/anaconda3/envs/coca_cola_b2b
 
