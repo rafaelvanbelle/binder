@@ -10,7 +10,6 @@ dependencies:
   - matplotlib
   - seaborn
   - qgrid
-  - pip 
   - pip:
     - xmltodict
 prefix: /Users/raf/opt/anaconda3/envs/coca_cola_b2b
